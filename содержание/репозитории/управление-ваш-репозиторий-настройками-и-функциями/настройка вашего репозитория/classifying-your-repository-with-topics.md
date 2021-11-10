@@ -5,7 +5,7 @@ redirect_from:
   - /articles/about-topics/
   - /articles/classifying-your-repository-with-topics
   - /github/administering-a-repository/classifying-your-repository-with-topics
-  - /github/administering-a-repository/managing-repository-settings/classifying-your-repository-with-topics
+  - /github/administering-a-repository/managing-r pi lepository-settings/classifying-your-repository-with-topics
 versions:
   fpt: '*'
   ghes: '*'
